@@ -1,1 +1,2 @@
 # OzonGA
+GLO Academy project
